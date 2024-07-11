@@ -32,6 +32,7 @@ Skills Developed:
 * Backup Energy Storage System Design
 * Agile/Scrum framework
 * Data Analysis
+* Residential/Commercial Scale Solar
 
 ## Data Science Tech Stack
 
