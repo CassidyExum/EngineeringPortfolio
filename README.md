@@ -2,11 +2,11 @@ Hello and welcome to my github. This repository acts as my engineering portfolio
 
 I have images here to showcase some different projects I've designed / built / etc. I'd be happy to discuss everything here further.
 
-# About Me
+## About Me
 
 My name is Cassidy Exum, I graduated from Stony Brook University in 2020 with a degree in Mechanical Engineering and a minor in computer science. I sought out post graduate studies by completing a bootcamp in data science and machine learning. I'm open to roles in both Engineering and Data Science.
 
-# Job Experience
+## Job Experience
 
 ### Design Resources
 
@@ -33,7 +33,7 @@ Skills Developed:
 * Agile/Scrum framework
 * Data Analysis
 
-# Data Science Tech Stack
+## Data Science Tech Stack
 
 You can view a few of my data science projects in other repository's on my profile. Some examples are a time-series forcasting and analysis of power consumption data, a sentiment analysis of tech tweets, and an analysis of solar, battery storage, ECU runtime, and generator fuel consumption for Pvilion. I'm well versed in excel but prefer to do larger projects in Python.
 
@@ -46,7 +46,7 @@ Tech Stack:
 * Numpy
 * Keras
 
-# Hobbies
+## Hobbies
 
 1. Chess - I'm a huge fan of the game and I enjoy watching, studying, and playing. I began playing in 2021 and have rapidly climbed online. I'm currently rated above 2000 on chess.com which is in the 99.2 percentile. A great part about living in NYC is being able to play strangers in the parks.
 2. Korean Language - In 2023 I began studying Korean. I decided to learn it due to the people and interests in my life that intersected in Korean. It's been challenging and I'm still only a beginner, but I plan to continue practicing and hopefully using my skills when I visit Korea.
